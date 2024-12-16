@@ -7,14 +7,14 @@
 	</parent>
 	<groupId>org.jresearch.mapstruct.avro</groupId>
 	<artifactId>org.jresearch.mapstruct.avro.pom</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>JRS: Mapstruct SPI extension for AVRO, POM</name>
 	<url>https://github.com/hortonolite/mapstruct-spi-avro</url>
 	<scm>
 		<developerConnection>scm:git:https://github.com/hortonolite/mapstruct-spi-avro.git</developerConnection>
 		<url>https://github.com/hortonolite/mapstruct-spi-avro</url>
-		<tag>v1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<modules>
 		<module>../spi</module>
